@@ -9,7 +9,7 @@ $ cd src/projects
 $ git clone https://github.com/akashkollipara/cc-swap-no-temp.git   # Clone this repo
 $ cd ../../
 $ make get_avr_tc       # Use correct command for fetching toolchain, this is just for illustration purpose
-$ make cc-swap-no-temp # build will be locate at out/cc-swap-no-temp
+$ make cc-swap-no-temp # build will be located at out/cc-swap-no-temp
 ```
 
 Flash the binary on target using respective programmer.
